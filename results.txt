@@ -1,0 +1,32 @@
+items=
+[RetrieverResultItem(content="{'voltitle': 'Joint Proceedings of the SIGIR-AP 2024 Workshops EMTCIR 2024 and UM-CIR 2024',
+'id': '67dbf8c44e4e9e66638fbd2a',
+'urn': 'urn:nbn:de:0074-3854-4',
+'title': ' CEUR-WS.org/Vol-3854 - Joint Proceedings of the SIGIR-AP 2024 Workshops EMTCIR 2024 and UM-CIR 2024',
+'loctime': 'Tokyo, Japan, December 12, 2024',
+'volacronym': 'EMTCIR_UM-CIR 2024',
+'volnr': 'Vol-3854',
+'fulltitle': 'Joint Proceedings of the 1st Workshop on Evaluation\\n        Methodologies,Testbeds and Community for Information Access Research\\n        (EMTCIR 2024) and the 1st Workshop on User Modelling in Conversational\\n        Information Retrieval (UM-CIR 2024)',
+'embedding': None,
+'pubyear': '2024'}",
+metadata={
+'score': 0.7629427909851074,
+'nodeLabels': ['Volume'],
+'id': '4:a90a02f2-7d0d-4906-b34c-1b60a4e5dd25:5952'}),
+
+
+Answer
+CEUR has published several proceedings for various workshops and conferences. Here are some examples:
+
+1. **Joint Proceedings of the SIGIR-AP 2024 Workshops EMTCIR 2024 and UM-CIR 2024**: This includes the 1st Workshop on Evaluation Methodologies, Testbeds, and Community for Information Access Research (EMTCIR 2024) and the 1st Workshop on User Modelling in Conversational Information Retrieval (UM-CIR 2024). It took place in Tokyo, Japan, on December 12, 2024.
+
+2. **The 1st International Workshop on Advanced Applied Information Technologies (AdvAIT 2024)**: This workshop was held in Khmelnytskyi, Ukraine, and Zilina, Slovakia, on December 5, 2024. The proceedings are published in Vol-3899.
+
+3. **Computational Humanities Research 2024**: The proceedings for this conference, held in Aarhus, Denmark, from December 4-6, 2024, are published in Vol-3834.
+
+4. **Classic, Quantum, and Post-Quantum Cryptography 2024 (CQPC-2024)**: This event took place online from Kyiv, Ukraine, on August 6, 2024, and the proceedings are available in Vol-3829.
+
+5. **Cybersecurity Providing in Information and Telecommunication Systems II 2024 (CPITS-II-2024)**: Held online from Kyiv, Ukraine, on October 26, 2024, the proceedings are published in Vol-3826.
+
+These proceedings cover a range of topics from information access research and user modeling in conversational information retrieval to advanced applied information technologies, computational humanities, cryptography, and cybersecurity.
+
