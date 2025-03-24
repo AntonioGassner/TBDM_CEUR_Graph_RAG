@@ -1,0 +1,397 @@
+pages: 12-21
+title: Finding comparison insights in multidimensional datasets
+url: https://ceur-ws.org/Vol-3931/paper2.pdf
+----------------------------------------
+pages: 21-29
+title: Automatic Feedback on Collaborative Writing Tasks
+url: https://ceur-ws.org/Vol-3927/paper3.pdf
+----------------------------------------
+pages: 22-30
+title: Counterfactual Explanations for Group Recommendations
+url: https://ceur-ws.org/Vol-3931/paper3.pdf
+----------------------------------------
+title: Modeling Biomedical Burdens in Basic Formal Ontology
+url: https://ceur-ws.org/Vol-3939/paper1.pdf
+----------------------------------------
+pages: 15-22
+title: Rethinking Paradigmatic Collaboration: New Metrics
+for Inter-language Synergy in Software Engineering
+url: https://ceur-ws.org/Vol-3941/BENEVOL2024_NICE_paper3.pdf
+----------------------------------------
+title: 5000 Characters at Video Frame Rate using Declarative Programming
+url: https://ceur-ws.org/Vol-3926/paper1.pdf
+----------------------------------------
+pages: 28-41
+title: GADGN: A dual graph convolutional architecture for traffic flow prediction
+url: https://ceur-ws.org/Vol-3943/paper07.pdf
+----------------------------------------
+pages: 23-34
+title: Work in Progress Paper: Detecting Method Level License
+    Conflicts in the Worldwide Software Ecosystem
+url: https://ceur-ws.org/Vol-3941/BENEVOL2024_TECH_paper4.pdf
+----------------------------------------
+title: Exploring the Evolution of the Gene Ontology and its Impact on Enrichment
+						Analysis
+url: https://ceur-ws.org/Vol-3939/paper2.pdf
+----------------------------------------
+pages: 30-39
+title: Extending ACT-R to Tackle Deceptive Overgeneralization in Intelligent Tutoring Systems
+url: https://ceur-ws.org/Vol-3927/paper4.pdf
+----------------------------------------
+title: Peeling Back the Layers: An In-Depth Evaluation of Encoder Architectures in Neural News Recommenders
+url: https://ceur-ws.org/Vol-3929/paper3.pdf
+----------------------------------------
+pages: 31-38
+title: Entity Matching with 7B LLMs: A Study on Prompting Strategies and Hardware Limitations
+url: https://ceur-ws.org/Vol-3931/paper4.pdf
+----------------------------------------
+title: Grounding Realizable Entities
+url: https://ceur-ws.org/Vol-3939/paper3.pdf
+----------------------------------------
+title: Evaluating the Stability of the Smogon Tier List for Competitive Pokémon Battling
+url: https://ceur-ws.org/Vol-3926/paper2.pdf
+----------------------------------------
+pages: 11--18
+title: On the Environmental Impact of the Algorithm LatentOut for Unsupervised Anomaly Detection (SHORT PAPER)
+url: https://ceur-ws.org/Vol-3934/short2.pdf
+----------------------------------------
+pages: 39-48
+title: Optimizing Big Active Data Management Systems
+url: https://ceur-ws.org/Vol-3931/paper5.pdf
+----------------------------------------
+title: An Empirical Analysis of the Validity of Competitive Pokémon Rule Sets
+url: https://ceur-ws.org/Vol-3926/paper3.pdf
+----------------------------------------
+pages: 40-44
+title: Ethical framework for AI in education
+url: https://ceur-ws.org/Vol-3927/paper5.pdf
+----------------------------------------
+pages: 19--23
+title: A Lightweight Meta-Feature Extraction Strategy for Deep Reinforcement Anomaly Detection (SHORT PAPER)
+url: https://ceur-ws.org/Vol-3934/short3.pdf
+----------------------------------------
+pages: 24--28
+title: DPET: A Data and Parameter Efficient Training Framework for Green AI (SHORT PAPER)
+url: https://ceur-ws.org/Vol-3934/short4.pdf
+----------------------------------------
+title: ArmA 3 Billeting as a Coalition Formation Game
+url: https://ceur-ws.org/Vol-3926/paper4.pdf
+----------------------------------------
+pages: 49-53
+title: A Diversity-aware Approach to Bundle Recommendations
+url: https://ceur-ws.org/Vol-3931/short1.pdf
+----------------------------------------
+title: Punch Out Model Synthesis: A Stochastic Algorithm for Constraint Based Tiling Generation
+url: https://ceur-ws.org/Vol-3926/paper5.pdf
+----------------------------------------
+pages: 42-57
+title: EMTKD at the edge: An adaptive multi-teacher knowledge distillation for robust cardiac MRI classification
+url: https://ceur-ws.org/Vol-3943/paper09.pdf
+----------------------------------------
+pages: 54-58
+title: Causal Banzhaf Value for aggregate query explanations
+url: https://ceur-ws.org/Vol-3931/short2.pdf
+----------------------------------------
+pages: 1-2
+title: Ontology-Based Requirements Engineering: The Case of Ethicality Requirements
+url: https://ceur-ws.org/Vol-3936/iStar24_keynote.pdf
+----------------------------------------
+title: Negativity Sells? Using an LLM to Affectively Reframe News Articles in a Recommender System
+url: https://ceur-ws.org/Vol-3929/paper4.pdf
+----------------------------------------
+pages: 35-41
+title: AST Matching based on Concrete Syntax Patterns:
+    Exploration of the Specification Challenges
+url: https://ceur-ws.org/Vol-3941/BENEVOL2024_TECH_paper5.pdf
+----------------------------------------
+pages: 01-11
+title: 
+                    Digitalization and Employment Trends in the European Union
+                
+url: https://ceur-ws.org/Vol-3942/S_01_Dziubanovska.pdf
+----------------------------------------
+pages: 59-63
+title: The Case for Instance-Optimized LLMs in OLAP Databases
+url: https://ceur-ws.org/Vol-3931/short3.pdf
+----------------------------------------
+pages: 12-25
+title: 
+                    Scheme of Sequential Analysis of Options for Creating an Intelligent System for Analyzing Competitive Proposals for Urban Transformation
+                
+url: https://ceur-ws.org/Vol-3942/S_02_Hnatiienko.pdf
+----------------------------------------
+title: Credentials in the Occupation Ontology
+url: https://ceur-ws.org/Vol-3939/paper4.pdf
+----------------------------------------
+pages: 58-66
+title: Scalable and reliable MQTT messaging: evaluating TBMQ for P2P scenarios
+url: https://ceur-ws.org/Vol-3943/paper12.pdf
+----------------------------------------
+pages: 42-51
+title: Resilience Testing of Spring Applications via Fault
+    Injections
+url: https://ceur-ws.org/Vol-3941/BENEVOL2024_TECH_paper6.pdf
+----------------------------------------
+pages: 45-49
+title: From Distraction to Reaction: Exploring Self-Regulated Learning and Off-Task Thoughts in Online Learning from Videos
+url: https://ceur-ws.org/Vol-3927/paper6.pdf
+----------------------------------------
+title: (Re-)bridging the Anatomy Ontologies with SSSOM
+url: https://ceur-ws.org/Vol-3939/short1.pdf
+----------------------------------------
+pages: 50-54
+title: Designing Integrated Development Environments to Support Students with ADHD
+url: https://ceur-ws.org/Vol-3927/paper7.pdf
+----------------------------------------
+title: Empowering Editors: How Automated Recommendations Support Editorial Article Curation
+url: https://ceur-ws.org/Vol-3929/short1.pdf
+----------------------------------------
+pages: 3-12
+title: Requirements Modeling and Elicitation for
+Explainable Artificial Intelligence Based on i*
+url: https://ceur-ws.org/Vol-3936/iStar24_paper_1.pdf
+----------------------------------------
+pages: 52-62
+title: Integrating Fault Injection in Fuzzing:
+    Design, Implementation and Preliminary Experiments
+url: https://ceur-ws.org/Vol-3941/BENEVOL2024_TECH_paper7.pdf
+----------------------------------------
+pages: 29--39
+title: Enhancing the Evaluation of Fault Detection Models in Smart Agriculture Using LLM Agents for Rule-Based Anomaly Generation
+url: https://ceur-ws.org/Vol-3934/paper5.pdf
+----------------------------------------
+pages: 55-62
+title: Augmented Reality technology as a strategy to enhance learning of spatial astronomy concepts in the 7th grade
+url: https://ceur-ws.org/Vol-3927/paper8.pdf
+----------------------------------------
+pages: 67-80
+title: Review of modern tools for edge computing systems quality assurance
+url: https://ceur-ws.org/Vol-3943/paper16.pdf
+----------------------------------------
+pages: 63-75
+title: Towards an Empirical Analysis of Code Cloning and Code
+    Reuse in CI/CD Ecosystems
+url: https://ceur-ws.org/Vol-3941/BENEVOL2024_TECH_paper8.pdf
+----------------------------------------
+pages: 63-69
+title: Instructor Presence and Learner Response: Analyzing Learning Gain, Cognitive Load, Visual Attention and Affective States in Video and Metaverse Environments
+url: https://ceur-ws.org/Vol-3927/paper9.pdf
+----------------------------------------
+pages: 76-87
+title: Classifying Linux commits
+url: https://ceur-ws.org/Vol-3941/BENEVOL2024_TECH_paper9.pdf
+----------------------------------------
+pages: 13-20
+title: Using iStar to Describe Human-robot Collaborations:
+Exploring Different Ways of Goal Model Usage
+url: https://ceur-ws.org/Vol-3936/iStar24_paper_2.pdf
+----------------------------------------
+title: RADio-: a simplified codebase for evaluating normative diversity in recommender systems
+url: https://ceur-ws.org/Vol-3929/short2.pdf
+----------------------------------------
+title: TAFT: A Transformer-Based Approach for Format Transformation
+url: https://ceur-ws.org/Vol-3928/paper_32.pdf
+----------------------------------------
+pages: 81-96 
+title: An IoT-based system of mechanizing sport competition motion for perception improvement
+url: https://ceur-ws.org/Vol-3943/paper17.pdf
+----------------------------------------
+pages: 70-75
+title: Cultivating Computational Thinking Skills via Educational Robotics Activities in a Blended Learning Environment
+url: https://ceur-ws.org/Vol-3927/paper10.pdf
+----------------------------------------
+title: Beyond Following: Mixing Active Initiative into Computational Creativity
+url: https://ceur-ws.org/Vol-3926/paper6.pdf
+----------------------------------------
+title: Simulating Real-World News Consumption: Deep Q-Learning for Diverse User-Centric Slate Recommendations
+url: https://ceur-ws.org/Vol-3929/short3.pdf
+----------------------------------------
+pages: 12-23
+title: Retrieval Augmented Generation in Large Language Models:Development of AI Chatbot for Student Support
+url: https://ceur-ws.org/Vol-3938/Paper_2.pdf
+----------------------------------------
+pages: 64-68
+title: Using ChatGPT to refine draft conceptual schemata in supply-driven design of multidimensional cubes
+url: https://ceur-ws.org/Vol-3931/short4.pdf
+----------------------------------------
+title: Semantic Representation of Preclinical Data in Radiation Oncology
+url: https://ceur-ws.org/Vol-3939/short2.pdf
+----------------------------------------
+title: Enhancing Prediction Models with Reinforcement Learning
+url: https://ceur-ws.org/Vol-3929/short4.pdf
+----------------------------------------
+pages: 21-27
+title: Towards Automatic Generation of iStar Models Using
+ChatGPT
+url: https://ceur-ws.org/Vol-3936/iStar24_paper_3.pdf
+----------------------------------------
+title: Expanding the Ontology of Organizational Structures of Trauma Centers and Trauma
+						Systems
+url: https://ceur-ws.org/Vol-3939/short3.pdf
+----------------------------------------
+pages: 76-82
+title: Empowering Dialogic Feedback in FLW with LLM
+url: https://ceur-ws.org/Vol-3927/paper11.pdf
+----------------------------------------
+pages: 40--49
+title: A Declarative Framework for Temporal Reasoning in Green-Aware Applications
+url: https://ceur-ws.org/Vol-3934/paper6.pdf
+----------------------------------------
+pages: 26-43
+title: 
+                    Some Aspects and Prospects of Artificial Intelligence Application in Educational Processes of the Agricultural Sector of the Economy
+                
+url: https://ceur-ws.org/Vol-3942/S_03_Hnatiienko.pdf
+----------------------------------------
+pages: 69-73
+title: Beyond Row Counts: Enhancing Workload-Aware Data Synthesis
+url: https://ceur-ws.org/Vol-3931/short5.pdf
+----------------------------------------
+pages: 28-36
+title: Managing Collaborative Decision-Making and Trade-offs in ML Development: An Agent-Oriented Approach
+url: https://ceur-ws.org/Vol-3936/iStar24_paper_4.pdf
+----------------------------------------
+pages: 24-31
+title: Comparative Analysis of Student Performance Across Different Cohorts in Higher Education
+url: https://ceur-ws.org/Vol-3938/Paper_3.pdf
+----------------------------------------
+title: MiniStS: A Testbed for Dynamic Rule Exploration
+url: https://ceur-ws.org/Vol-3926/paper7.pdf
+----------------------------------------
+pages: 50--59
+title: Optimizing Photosensor Placement for Energy-Efficient Lighting in Sustainable Building Design based on Multivariate Long Short-Term Memory Models
+url: https://ceur-ws.org/Vol-3934/paper7.pdf
+----------------------------------------
+title: Integrating textual data for enhanced explanation of food crises at subnational scale
+url: https://ceur-ws.org/Vol-3928/paper_47.pdf
+----------------------------------------
+pages: 97-108
+title: Multi-UAV 3D path planning based on improved sparrow search algorithm
+url: https://ceur-ws.org/Vol-3943/paper18.pdf
+----------------------------------------
+pages: 83-89
+title: Safeguarding Privacy and Data Protection Rights in AI-Enhanced Education and Learning Analytics: an Interdisciplinary Approach in Secondary High School Educational Settings
+url: https://ceur-ws.org/Vol-3927/paper12.pdf
+----------------------------------------
+pages: 44-55
+title: 
+                    Site-Specific Forecasting of Agricultural Crop Yield as a Technology and Service
+                
+url: https://ceur-ws.org/Vol-3942/S_04_Hnatiienko.pdf
+----------------------------------------
+title: Toward Prose Performances: Reflective Practices in Social Simulation
+url: https://ceur-ws.org/Vol-3926/paper8.pdf
+----------------------------------------
+pages: 90-94
+title: Scientific Reasoning with Interactive Diagrams in Primary Education
+url: https://ceur-ws.org/Vol-3927/paper13.pdf
+----------------------------------------
+pages: 37-42
+title: Opportunities and Challenges for GORE in the era of
+Learning-based AI - iStar'24 Panel Report
+url: https://ceur-ws.org/Vol-3936/iStar24_panel_report.pdf
+----------------------------------------
+title: OLS4: New Features for Exploring Ontologies
+url: https://ceur-ws.org/Vol-3939/abstract1.pdf
+----------------------------------------
+pages: 88-96
+title: Pyttern: a Python-Based Program Query Language
+url: https://ceur-ws.org/Vol-3941/BENEVOL2024_TECH_paper10.pdf
+----------------------------------------
+title: Axes of Characterizing Generative Systems: A Taxonomy of Approaches to Expressive Range Analysis
+url: https://ceur-ws.org/Vol-3926/paper9.pdf
+----------------------------------------
+pages: 74-78
+title: Workload Cost Optimization Using Dynamic Replication in Decentralized Systems
+url: https://ceur-ws.org/Vol-3931/short6.pdf
+----------------------------------------
+pages: 32-41
+title: Architecture of an Automated Grading System using Solidity for Blockchain Development
+url: https://ceur-ws.org/Vol-3938/Paper_4.pdf
+----------------------------------------
+pages: 1-10
+title: Extending Monolingual Asymmetric Semantic Search Models For Multilingual Query Processing Using Knowledge Distillation
+url: https://ceur-ws.org/Vol-3933/Paper_1.pdf
+----------------------------------------
+pages: 109-117
+title: Some aspects of real-time image denoising influenced by shot noise and compound Poisson noise
+url: https://ceur-ws.org/Vol-3943/paper21.pdf
+----------------------------------------
+pages: 56-65
+title: 
+                    Application Of The Ant Colony Algorithm For Solving The Fuzzy Traveling Salesman Problem
+                
+url: https://ceur-ws.org/Vol-3942/S_05_Ivohin.pdf
+----------------------------------------
+title: Network-wide shocking events through the lens of node representation shift
+url: https://ceur-ws.org/Vol-3928/paper_54.pdf
+----------------------------------------
+pages: 79-84
+title: Exploring Content-Based Catalogs for Enhanced Discovery Services in Data Spaces
+url: https://ceur-ws.org/Vol-3931/short7.pdf
+----------------------------------------
+pages: 6-17
+title:  CoMediC: Empowering Collaborative and Participatory Medical Multimodel Data Collection Projects
+url: https://ceur-ws.org/Vol-3935/Paper1.pdf
+----------------------------------------
+title: Examining the Trajectory of Early Professionals' use of Generative AI in the Game Development Process from 2023 to 2024
+url: https://ceur-ws.org/Vol-3926/paper10.pdf
+----------------------------------------
+title: Bridging the Gap: Integrating Public Bio-Ontologies into Enterprise Data
+						Management Strategies
+url: https://ceur-ws.org/Vol-3939/abstract2.pdf
+----------------------------------------
+pages: 97-114
+title: Aran: JavaScript Instrumentation for Heavyweight
+    Dynamic Analysis
+url: https://ceur-ws.org/Vol-3941/BENEVOL2024_TECH_paper11.pdf
+----------------------------------------
+pages: 118-126
+title: Improved model for detecting randomly oriented objects on remote sensing images
+url: https://ceur-ws.org/Vol-3943/paper26.pdf
+----------------------------------------
+pages: 66-82
+title: 
+                    An Intelligent Information System for Generating a Scientist's Scientometrics Using Content Analysis Methods
+                
+url: https://ceur-ws.org/Vol-3942/S_06_Dyvak.pdf
+----------------------------------------
+pages: 95-103
+title: A Synthesis Proposal: Merging AI in Education with Automata Theory
+url: https://ceur-ws.org/Vol-3927/paper14.pdf
+----------------------------------------
+pages: 85-87
+title: Challenges to Enforce Data Quality in Data Spaces
+url: https://ceur-ws.org/Vol-3931/panel1.pdf
+----------------------------------------
+pages: 3-12
+title: A comparative analysis of cyber threat intelligence models
+url: https://ceur-ws.org/Vol-3925/paper01.pdf
+----------------------------------------
+pages: 3-7
+title: Lightweight Deep Learning for Weather Prediction and Forecasting in Africa
+url: https://ceur-ws.org/Vol-3944/paper1.pdf
+----------------------------------------
+pages: 13-23
+title: Cloud shared hosting DDoS resistance and potential ways of protection
+url: https://ceur-ws.org/Vol-3925/paper02.pdf
+----------------------------------------
+pages: 18-28
+title:  A Novel Ensemble Learning Approach for Diabetes Prediction in Imbalanced Datasets
+url: https://ceur-ws.org/Vol-3935/Paper2.pdf
+----------------------------------------
+pages: 115-134
+title: Combining Static and Dynamic Techniques for
+    Refactoring Industrial FSMs in C++
+url: https://ceur-ws.org/Vol-3941/BENEVOL2024_TECH_paper12.pdf
+----------------------------------------
+title: Personalized multiclass stress and cognitive load detection
+url: https://ceur-ws.org/Vol-3928/paper_68.pdf
+----------------------------------------
+pages: 11-27
+title: TaxoRankConstruct: A Novel Rank-based Iterative Approach To Taxonomy Construction With Large Language Models
+url: https://ceur-ws.org/Vol-3933/Paper_2.pdf
+----------------------------------------
+title: One Spell Fits All: A Generative AI Game as a Tool for Research in AI Creativity and Sustainable Design
+url: https://ceur-ws.org/Vol-3926/paper11.pdf
+----------------------------------------

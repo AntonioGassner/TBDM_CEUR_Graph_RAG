@@ -1,0 +1,933 @@
+urn: urn:nbn:de:0074-3916-X
+pubyear: 2024
+volnr: Vol-3916
+fulltitle: Short Paper Proceedings of the 6th International Workshop on Experience with SQuaRE Family and Its Future Direction
+voltitle: 6th International Workshop on Experience with SQuaRE Family and Its Future Direction
+loctime: Chongqing, China, December 3th, 2024
+title: CEUR-WS.org/Vol-3916 - 6th International Workshop on Experience with SQuaRE Family and Its Future Direction 2024
+volacronym: IWESQ 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3906-X
+pubyear: 2024
+volnr: Vol-3906
+fulltitle: Proceedings of 
+ALTRUIST Workshop on sociAL roboTs for peRsonalized, continUous and adaptIve aSsisTance, 
+BAILAR Workshop on Behavior Adaptation and Learning for Assistive Robotics, 
+SCRITA Workshop on Trust, Acceptance and Social Cues in Human-Robot Interaction, and 
+WARN Workshop on Weighing the benefits of Autonomous Robot persoNalisation (ALTRUIST-BAILAR-SCRITA-WARN 2024)
+voltitle: Workshop on sociAL roboTs for peRsonalized, continUous and adaptIve aSsisTance, Workshop on Behavior Adaptation and Learning for Assistive Robotics, Workshop on Trust, Acceptance and Social Cues in Human-Robot Interaction, and Workshop on Weighing the benefits of Autonomous Robot persoNalisation 2024
+loctime: August 26th, 2024, Pasadena, USA
+title: CEUR-WS.org/Vol-3906 - Workshop on sociAL roboTs for peRsonalized, continUous and adaptIve aSsisTance, Workshop on Behavior Adaptation and Learning for Assistive Robotics, Workshop on Trust, Acceptance and Social Cues in Human-Robot Interaction, and Workshop on Weighing the benefits of Autonomous Robot persoNalisation 2024
+volacronym: ALTRUIST 2024, BAILAR 2024, SCRITA 2024, and WARN 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3920-X
+pubyear: 2024
+volnr: Vol-3920
+fulltitle: Proceedings of the Conference on Applied Machine Learning in Information Security (CAMLIS 2024)
+voltitle: Conference on Applied Machine Learning in Information Security 2024
+loctime: Arlington, Virginia, USA, October 24-25, 2024
+title: CEUR-WS.org/Vol-3920 - Conference on Applied Machine Learning in Information Security 2024
+volacronym: CAMLIS 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3921-X
+pubyear: 2025
+volnr: Vol-3921
+fulltitle: Companion Proceedings of the 15th International Conference on Software Business (PhD Retreat, Posters & Demos Track)
+voltitle: Software Business: PhD Retreat and Posters & Demos Track 2024
+loctime: Utrecht, the Netherlands, November 18–20, 2024
+title: CEUR-WS.org/Vol-3921 - International Conference on Software Business Companion Proceedings 2024
+volacronym: ICSOB-C 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3918-X
+pubyear: 2025
+volnr: Vol-3918
+fulltitle: Proceedings of the 7th International Workshop on Augmented Reality in Education (AREdu 2024)
+voltitle: Augmented Reality in Education 2024
+loctime: Kryvyi Rih, Ukraine, May 14, 2024
+title: CEUR-WS.org/Vol-3918 - 7th International Workshop on Augmented Reality in Education 2024
+volacronym: AREdu 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3911-X
+pubyear: 2024
+volnr: Vol-3911
+fulltitle: 12th International Workshop "What can FCA do for Artificial Intelligence?
+voltitle: What can FCA do for Artificial Intelligence 2024
+loctime: Santiago de Compostela, Spain, October 19, 2024
+title: CEUR-WS.org/Vol-3911 - What can FCA do for Artificial Intelligence 2024
+volacronym: FCA4AI 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3915-X
+pubyear: 2025
+volnr: Vol-3915
+fulltitle: Proceedings of the AIxIA Discussion Papers 2024
+voltitle: AIxIA 2024 Discussion Papers 
+loctime: Bolzano, Italy, November 25-28, 2024
+title: CEUR-WS.org/Vol-3915 - AIxIA Discussion Papers 2024
+volacronym: AIxIA-DP 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3908-X
+pubyear: 2024
+volnr: Vol-3908
+fulltitle: Proceedings of the 3rd European Workshop on Algorithmic Fairness
+voltitle: European Workshop on Algorithmic Fairness
+title: CEUR-WS.org/Vol-3908 - 3rd European Workshop on Algorithmic Fairness (EWAF24)
+volacronym: EWAF24 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3919-X
+pubyear: 2024
+volnr: Vol-3919
+fulltitle: WiP Proceedings of the Fourteenth International Conference on Indoor Positioning and Indoor Navigation - Work-in-Progress Papers (IPIN-WiP 2024)
+voltitle: Indoor Positioning and Indoor Navigation - Work-in-Progress Papers 2024
+loctime: Hong Kong, October 14 - 17, 2024
+title: CEUR-WS.org/Vol-3919 - Indoor Positioning and Indoor Navigation - Work-in-Progress Papers 2024
+volacronym: IPIN-WiP 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3917-X
+pubyear: 2025
+volnr: Vol-3917
+fulltitle: Proceedings of the 7th Workshop for Young Scientists in Computer Science & Software Engineering (CS&SE@SW 2024)
+voltitle: Young Scientists in Computer Science & Software Engineering 2024
+loctime: Virtual Event, Kryvyi Rih, Ukraine, December 27, 2024
+title: CEUR-WS.org/Vol-3917 - 7th Workshop for Young Scientists in Computer Science & Software Engineering (CS&SE@SW 2024)
+volacronym: CS&SE@SW 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3912-X
+pubyear: 2024
+volnr: Vol-3912
+fulltitle: Proceedings of the International Workshop on Data Analytics (WDA 2025)
+voltitle: Workshop on Data Analytics 2025
+loctime: Kyiv, Ukraine, January 6, 2025
+title: CEUR-WS.org/Vol-3912 - International Workshop on Data Analytics (WDA 2025)
+volacronym: WDA 2025
+----------------------------------------
+urn: urn:nbn:de:0074-3907-X
+pubyear: 2024
+volnr: Vol-3907
+fulltitle: Proceedings of the 16th Asia-Pacific Workshop on Mixed and Augmented Reality
+voltitle: Asia-Pacific Workshop on Mixed and Augmented Reality 2024
+loctime: Kyoto, Japan, November 29-30, 2024
+title: CEUR-WS.org/Vol-3907 - Asia-Pacific Workshop on Mixed and Augmented Reality 2024
+volacronym: APMAR 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3909-X
+pubyear: 2024
+volnr: Vol-3909
+fulltitle: Selected Papers of the XI International Scientific Conference "Information Technology and Implementation" (IT&I 2024). Conference Proceedings
+voltitle: Information Technology and Implementation 2024
+loctime: Kyiv, Ukraine, November 20-21, 2024
+title: CEUR-WS.org/Vol-3909 - Information Technology and Implementation (IT&I 2024)
+volacronym: IT&I 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3904-X
+pubyear: 2025
+volnr: Vol-3904
+fulltitle: Short Paper Proceedings of the 6th International Workshop on Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis
+voltitle: Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis 2024
+loctime: Bolzano, Italy, November 28—29, 2024
+title: CEUR-WS.org/Vol-3904 - Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis 2024
+volacronym: OVERLAY 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3913-X
+pubyear: 2024
+volnr: Vol-3913
+fulltitle: Proceedings of the International Workshop on AI for Quantum and Quantum for AI (AIQxQIA 2024)
+voltitle: AI for Quantum and Quantum for AI 2024
+loctime: November 25 - November 28, 2024, Free University of Bolzano, Bolzano, Italy
+title: CEUR-WS.org/Vol-3913 - AI for Quantum and Quantum for AI 2024
+volacronym: AIQxQIA 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3905-X
+pubyear: 2025
+volnr: Vol-3905
+fulltitle: 
+      Proceedings of the 17th Seminar on Ontology Research in Brazil (ONTOBRAS 2024) and 8th
+      Doctoral and Masters Consortium on Ontologies (WTDO 2024)
+    
+voltitle: Seminar on Ontology Research in Brazil
+loctime: Vitória, Brazil, October 07-10, 2024
+title: CEUR-WS.org/Vol-3905 - Ontobras 2024
+volacronym: ONTOBRAS 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3903-X
+pubyear: 2024
+volnr: Vol-3903
+fulltitle: Proceedings of the 3rd Workshop on Artificial Intelligence for Human-Machine Interaction 2024
+voltitle: 3rd Workshop on Artificial Intelligence for Human-Machine Interaction 2024
+loctime: Bolzano, Italy, November 26, 2024
+title: CEUR-WS.org/Vol-3903 - 3rd Workshop on Artificial Intelligence for Human-Machine Interaction 2024
+volacronym: AIxHMI 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3902-X
+pubyear: 2024
+volnr: Vol-3902
+fulltitle: Proceedings of the 1st International Workshop on Education for Artificial Intelligence
+voltitle: Education for Artificial Intelligence 2024
+loctime: Bozen-Bolzano, Italy, November 27, 2024
+title: CEUR-WS.org/Vol-3902 - Education for Artificial Intelligence 2024
+volacronym: edu4AI 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3900-X
+pubyear: 2025
+volnr: Vol-3900
+fulltitle: Proceedings of the 2024 Sixth Doctoral Symposium on Intelligence Enabled Research (DoSIER 2024)
+voltitle: 2024 Sixth Doctoral Symposium on Intelligence Enabled Research
+loctime: Dhupguri, Jalpaiguri, West Bengal, India, November 28-29, 2024
+title: CEUR-WS.org/Vol-3900 - 2024 Sixth Doctoral Symposium on Intelligence Enabled Research
+volacronym: DoSIER 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3901-X
+pubyear: 2024
+volnr: Vol-3901
+fulltitle: Proceedings of the Conference on Technology Ethics 2024 (Tethics 2024)
+voltitle: Technology Ethics 2024
+loctime: Tampere, Finland, November 6-7, 2024
+title: CEUR-WS.org/Vol-3901 - Conference on Technology Ethics – Tethics 2024
+volacronym: Tethics 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3898-7
+pubyear: 2024
+volnr: Vol-3898
+fulltitle: Proceedings of the Second Workshop on the Normative Design and Evaluation of Recommender
+      Systems (NORMalize 2024)
+voltitle: Normative Design and Evaluation of Recommender Systems 2024
+loctime: Bari, Italy, October 18, 2024
+title: CEUR-WS.org/Vol-3898 - The Second Workshop on the Normative Design and Evaluation of Recommender
+    Systems (NORMalize 2024)
+volacronym: NORMalize
+        2024
+----------------------------------------
+urn: urn:nbn:de:0074-3893-9
+pubyear: 2024
+volnr: Vol-3893
+fulltitle: Proceedings of the International Workshop on Smalltalk Technologies 2024 (IWST 2024)
+voltitle: International Workshop on Smalltalk Technologies 2024
+loctime: Lille, France from 8 to 11 of July 2024
+title: CEUR-WS.org/Vol-3893 - International Workshop on Smalltalk Technologies (IWST 2024)
+volacronym: IWST 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3886-1
+pubyear: 2024
+volnr: Vol-3886
+fulltitle: Proceedings of the Workshop on Recommenders in Tourism
+voltitle: Recommenders in Tourism 2024
+loctime: Bari, Italy, September 18, 2024
+volacronym: RecTour 2024
+title: CEUR-WS.org/Vol-3886 - Workshop on Recommenders in Tourism 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3888-8
+pubyear: 2024
+volnr: Vol-3888
+fulltitle: Proceedings of The Eighth Image Schema Day
+voltitle: The Eighth Image Schema Day
+loctime: Bozen-Bolzano, Italy, November 27-28th, 2024
+volacronym: ISD8 2024
+title: CEUR-WS.org/Vol-3888 - The Eighth Image Schema Day 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3887-5
+pubyear: 2023
+volnr: Vol-3887
+fulltitle: Selected Papers of the XXIII International Scientific and Practical Conference "Information Technologies and Security" (ITS 2023)
+voltitle: Information Technologies and Security
+loctime: Kyiv, Ukraine, November 30, 2023
+title: CEUR-WS.org/Vol-3887 - XXIII International Scientific and Practical Conference "Information Technologies and Security 2023"
+volacronym: ITS 2023
+----------------------------------------
+urn: urn:nbn:de:0074-3897-3
+pubyear: 2024
+volnr: Vol-3897
+fulltitle: Proceedings of the 19th International Workshop on Ontology Matching
+voltitle: Ontology Matching 2024
+loctime: Baltimore, USA, November 11, 2024
+volacronym: OM 2024
+title: CEUR-WS.org/Vol-3897 - Ontology Matching 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3891-1
+pubyear: 2024
+volnr: Vol-3891
+fulltitle: Proceedings of the 1st NeXt-generation Data Governance Workshop 2024
+voltitle: 1st NeXt-generation Data Governance Workshop 2024
+loctime: Amsterdam, Netherlands, September 17, 2024
+title: CEUR-WS.org/Vol-3891 - 1st NeXt-generation Data Governance Workshop 2024 (NXDG 2024)
+volacronym: NXDG 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3889-6
+pubyear: 2024
+volnr: Vol-3889
+fulltitle: Proceedings of the Semantic Web Challenge on Tabular Data to Knowledge Graph
+      Matching
+voltitle: Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2024
+loctime: Baltimore, USA, November 13, 2024
+title: CEUR-WS.org/Vol-3889 - Semantic Web Challenge on Tabular Data to Knowledge Graph Matching (SemTab 2024)
+volacronym: SemTab 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3885-8
+pubyear: 2024
+volnr: Vol-3885
+fulltitle: Proceedings of 29th International Conference Information Society and University Studies
+voltitle: Information Society and University Studies 2024
+loctime: Kaunas, Lithuania, May 17, 2024
+title: CEUR-WS.org/Vol-3885 - Information Society and University Studies 2024
+volacronym: IVUS 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3892-5
+pubyear: 2024
+volnr: Vol-3892
+fulltitle: Proceedings of the 7th International Conference on Informatics & Data-Driven Medicine
+voltitle: Informatics & Data-Driven Medicine 2024
+loctime: Birmingham, United Kingdom, November 14-16, 2024
+title: CEUR-WS.org/Vol-3892 - the 7th International Conference on Informatics & Data-Driven Medicine IDDM 2024
+volacronym: IDDM 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3884-4
+pubyear: 2024
+volnr: Vol-3884
+fulltitle: Proceedings of the Doctoral Consortium at ISWC 2024
+voltitle: Doctoral Consortium at ISWC 2024
+loctime: Baltimore, USA, November 11, 2024
+volacronym: ISWC-DC 2024
+title: CEUR-WS.org/Vol-3884 - Doctoral Consortium at ISWC 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3894-2
+pubyear: 2024
+volnr: Vol-3894
+fulltitle: Joint Proceedings of the Workshop on Knowledge-infused Learning and the workshop on Deep Learning and Large Language Models for Knowledge Graphs
+voltitle: KiL 2024: 4th International Workshop on Knowledge-infused Learning (Towards Consistent, Reliable, Explainable, and Safe LLMs) and DL4KG 2024: Deep Learning and Large Language Models for Knowledge Graphs 2024
+loctime: Barcelona, Spain, August 26, 2024
+title: CEUR-WS.org/Vol-3894 - Joint proceedings of KiL 2024: 4th International Workshop on Knowledge-infused Learning (Towards Consistent, Reliable, Explainable, and Safe LLMs)
+   and Deep Learning for Knowledge Graphs 2024 (DL4KG 2024)
+    
+volacronym: KiL 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3895-6
+pubyear: 2024
+volnr: Vol-3895
+fulltitle: Proceedings of the International Workshop on Algorithms of Data Processing (ADP 2024)
+voltitle: Algorithms of Data Processing 2024
+loctime: Kyiv, Ukraine, November 5, 2024
+volacronym: ADP 2024
+title: CEUR-WS.org/Vol-3895 - International Workshop on Algorithms of Data Processing (ADP 2024)
+----------------------------------------
+urn: urn:nbn:de:0074-3899-X
+pubyear: 2025
+volnr: Vol-3899
+fulltitle: Proceedings of the 1st International Workshop on Advanced Applied Information Technologies with CEUR-WS
+voltitle: The 1st International Workshop on Advanced Applied Information Technologies
+loctime: Khmelnytskyi, Ukraine, Zilina, Slovakia, December 5, 2024
+title: CEUR-WS.org/Vol-3899 - The 1st International Workshop on Advanced Applied Information Technologies (AdvAIT 2024)
+volacronym: AdvAIT 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3896-0
+pubyear: 2024
+volnr: Vol-3896
+fulltitle: Proceedings of the 4th International Workshop on Information Technologies: Theoretical and Applied Problems 2024
+voltitle: Information Technologies: Theoretical and Applied Problems 2024
+loctime: Ternopil, Ukraine and Opole, Poland, October 23-25, 2024
+title: CEUR-WS.org/Vol-3896 - The 4th International Workshop on Information Technologies: Theoretical and Applied Problems (ITTAP-2024)
+volacronym: ITTAP 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3883-1
+pubyear: 2024
+volnr: Vol-3883
+fulltitle: Proceedings of the International Workshop on Artificial Intelligence for Climate Change, 
+   Italian Workshop on Planning and Scheduling, 
+   RCRA Workshop on Experimental evaluation of algorithms for solving problems with combinatorial explosion, 
+   and SPIRIT Workshop on Strategies, Prediction, Interaction, and Reasoning in Italy      
+   (AI4CC-IPS-RCRA-SPIRIT 2024)
+
+voltitle: 
+   Artificial Intelligence for Climate Change 2024, Planning and Scheduling 2024, 
+   Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion 2024, 
+   Strategies, Prediction, Interaction, and Reasoning in Italy 2024
+loctime: November 25-28th, 2024, Bolzano, Italy
+title: CEUR-WS.org/Vol-3883 - Artificial Intelligence for Climate Change 2024, Planning and Scheduling 2024, 
+   Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion 2024, 
+   Strategies, Prediction, Interaction, and Reasoning in Italy 2024
+volacronym: AI4CC-IPS-RCRA-SPIRIT 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3881-3
+pubyear: 2024
+volnr: Vol-3881
+fulltitle: Proceedings of the 3rd Workshop on Bias, Ethical AI, Explainability and the role of Logic and Logic Programming
+voltitle: Bias, Risk, Explainability, Ethical AI and the role of Logic and Logic Programming 2024
+loctime: Bolzano, Italy, November 26, 2024
+title: CEUR-WS.org/Vol-3881 - Bias, Risk, Explainability, Ethical AI and the role of Logic and Logic Programming 2024
+volacronym: BEWARE 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3879-2
+pubyear: 2024
+volnr: Vol-3879
+fulltitle: Proceedings of the Second International Workshop on Artificial INtelligent Systems in Education
+voltitle: Artificial INtelligent Systems in Education 2024
+loctime: Bolzano, Italy, November 26, 2024
+title: CEUR-WS.org/Vol-3879 - Artificial Intelligent Systems in Education 2024
+volacronym: AIxEDU 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3876-8
+pubyear: 2024
+volnr: Vol-3876
+fulltitle: Joint Proceedings of the Joint Workshop on Knowledge Diversity and Cognitive Aspects of KR and the Workshop on Symbolic and Neuro-Symbolic Architectures for Intelligent Robotics Technology (KoDis-CAKR-SYNERGY 2024)
+voltitle: KoDis, CAKR and SYNERGY Workshops at KR 2024
+loctime: Hanoi, Vietnam, November 2–8, 2024
+title: CEUR-WS.org/Vol-3876 - KoDis / CAKR / SYNERGY Workshops at KR 2024
+volacronym: KoDis-CAKR-SYNERGY 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3878-5
+pubyear: 2024
+volnr: Vol-3878
+fulltitle: Proceedings of the Tenth Italian Conference on Computational Linguistics (CLiC-it 2024)
+voltitle: Italian Conference on Computational Linguistics
+loctime: Pisa, Italy, December 4-6, 2024
+title: CEUR-WS.org/Vol-3878 - Italian Conference on Computational Linguistics 2024
+volacronym: CLiC-it 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3877-1
+pubyear: 2024
+volnr: Vol-3877
+fulltitle: Proceedings of the Eight Workshop on Natural Language for Artificial Intelligence (NL4AI 2024)
+voltitle: Eight Workshop on Natural Language for Artificial Intelligence
+loctime: Bolzano, Italy, November 26th-27th, 2024
+title: CEUR-WS.org/Vol-3877 - Natural Language for Artificial Intelligence 2024
+volacronym: NL4AI 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3880-0
+pubyear: 2024
+volnr: Vol-3880
+fulltitle: Proceedings of the 3rd AIxIA Workshop on Artificial Intelligence For Healthcare (HC@AIxIA 2024)
+voltitle: Artificial Intelligence For Healthcare 2024
+loctime: Bolzano, Italy, 27-28 November 2024
+title: CEUR-WS.org/Vol-3880 - Artificial Intelligence For Healthcare 2024
+volacronym: HC@AIxIA 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3875-4
+pubyear: 2024
+volnr: Vol-3875
+fulltitle: Proceedings of the 5th International Workshop
+on Automated Reasoning in Quantified Non-Classical Logics (ARQNL 2024)
+voltitle: Automated Reasoning in Quantified Non-Classical Logics 2024
+loctime: Nancy, France, July 1, 2024
+volacronym: ARQNL 2024
+title: CEUR-WS.org/Vol-3875 - Automated Reasoning in Quantified Non-Classical Logics 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3882-7
+pubyear: 2024
+volnr: Vol-3882
+fulltitle: Proceedings of the Joint Ontology Workshops (JOWO) - Episode X: The Tukker Zomer of
+      Ontology, and satellite events co-located with the 14th International Conference on Formal Ontology in Information
+      Systems (FOIS 2024)
+voltitle: The Joint Ontology Workshops
+loctime: Enschede, The Netherlands, July 15-19, 2024
+volacronym: JOWO 2024
+title: CEUR-WS.org/Vol-3882 - The Joint Ontology Workshops 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3870-6
+pubyear: 2024
+volnr: Vol-3870
+fulltitle: Proceedings of the 10th Scholar’s Yearly Symposium of Technology, Engineering and Mathematics
+voltitle: 10th Scholar’s Yearly Symposium of Technology, Engineering and Mathematics 2024
+loctime: Rome, Italy, December 2-5, 2024
+title: CEUR-WS.org/Vol-3870 - Scholar’s Yearly Symposium of Technology, Engineering and Mathematics 2024
+volacronym: SYSTEM 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3868-1
+pubyear: 2024
+volnr: Vol-3868
+fulltitle: Proceedings of the International Symposium on Smart Cities Challenges Technologies and Trends Technologies (SCCTT 2024)
+voltitle: Third International Symposium on Smart Cities Challenges Technologies and Trends
+loctime: New Delhi, India, November29, 2024
+title: CEUR-WS.org/Vol-3868 - Third International Symposium on Smart Cities Challenges Technologies and Trends SCCTT 2024
+volacronym: SCCTT 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3864-7
+pubyear: 2024
+volnr: Vol-3864
+fulltitle: Proceedings of the 12th International Workshop on Quantitative Approaches to Software Quality
+voltitle: Quantitative Approaches to Software Quality 2024
+loctime: Chongqing, China, December 3, 2024
+title: CEUR-WS.org/Vol-3864 - 12th International Workshop on Quantitative Approaches to Software Quality 2024
+volacronym: QuASoQ 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3873-7
+pubyear: 2024
+volnr: Vol-3873
+fulltitle: Proceedings of the Workshop on Strategic and Utility-aware REcommendations (SURE 2024)
+voltitle: Strategic and Utility-aware REcommendations 2024
+loctime: Bari, Italy, 14th-18th October 2024
+title: CEUR-WS.org/Vol-3873 - Workshop on Strategic and Utility-aware REcommendations (SURE 2024)
+volacronym: SURE 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3866-4
+pubyear: 2024
+volnr: Vol-3866
+fulltitle: Proceedings of the 9th Human-Computer Interaction Slovenia (HCI SI) Conference 2024
+voltitle: Human-Computer Interaction Slovenia 2024
+loctime: Ljubljana, Slovenia, November 8, 2024
+title: CEUR-WS.org/Vol-3866 - Human-Computer Interaction Slovenia (HCI SI) Conference 2024
+volacronym: HCI-SI 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3865-1
+pubyear: 2024
+volnr: Vol-3865
+fulltitle: Proceedings of the 3rd Workshop on Artificial Intelligence for Cultural Heritage (IAI4CH 2024)
+voltitle: Artificial Intelligence for Cultural Heritage 2024
+loctime: Bolzano, Italy, November 28, 2024
+title: CEUR-WS.org/Vol-3865 - Artificial Intelligence for Cultural Heritage 2024
+volacronym: IAI4CH 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3869-9
+pubyear: 2023
+volnr: Vol-3869
+fulltitle: Proceedings of the 9th International Conference of Yearly Reports on
+Informatics, Mathematics, and Engineering
+voltitle: International Conference of Yearly Reports on Informatics, Mathematics, and Engineering 2024
+loctime: Catania, July 29 - August 1, 2024
+title: CEUR-WS.org/Vol-3869 -International Conference of Yearly Reports on
+Informatics, Mathematics, and Engineering 2024
+volacronym: ICYRIME 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3867-8
+pubyear: 2024
+volnr: Vol-3867
+fulltitle: Proceedings of the 3rd International Workshop on Resource AWareness of Systems and Society
+voltitle: Proceedings of the 3rd International Workshop on Resource AWareness of Systems and Society
+loctime: Maribor, Slovenia, July 2nd - 5th, 2024
+title: CEUR-WS.org/Vol-3867 - 3rd International Workshop on Resource AWareness of Systems and Society (RAW 2024)
+volacronym: RAW 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3863-4
+pubyear: 2024
+volnr: Vol-3863
+fulltitle: Proceedings of the 2nd International Workshop on Trends in Digital Identity (TDI 2024)
+voltitle: Trends in Digital Identity 2024
+loctime: Rome, Italy, April 9, 2024
+volacronym: TDI 2024
+title: CEUR-WS.org/Vol-3863 - 2nd International Workshop on Trends in Digital Identity
+----------------------------------------
+urn: urn:nbn:de:0074-3874-1
+pubyear: 2024
+volnr: Vol-3874
+fulltitle: Proceedings of the 3rd International Workshop on Natural Language Processing for Knowledge Graph Creation
+voltitle: Natural Language Processing for Knowledge Graph Creation 2024
+loctime: Amsterdam, Netherlands, September  17, 2024
+title: CEUR-WS.org/Vol-3874 - Natural Language Processing for Knowledge Graph Creation (NLP4KGC 2024)
+volacronym: NLP4KGC 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3872-4
+pubyear: 2024
+volnr: Vol-3872
+fulltitle: Proceedings of the XVI Congress of Latin American Women in Computing 2024 (LAWCC 2024)
+voltitle: Latin American Women in Computing 2024
+loctime: Bahía Blanca, Argentina, August 14, 2024
+title: CEUR-WS.org/Vol-3872 - XVI Congress of Latin American Women in Computing 2024
+volacronym: LAWCC 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3871-0
+pubyear: 2024
+volnr: Vol-3871
+fulltitle: Proceedings of the 8th Workshop on Advances in Argumentation in Artificial Intelligence 2024
+voltitle: Advances in Argumentation in Artificial Intelligence 2024
+loctime: Bozen, Italy, November 28, 2024
+title: CEUR-WS.org/Vol-3871 - Advances in Argumentation in Artificial Intelligence 2024
+volacronym: AI^3 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3853-0
+pubyear: 2024
+volnr: Vol-3853
+fulltitle: Joint proceedings of the 2nd workshop on Knowledge Base Construction from Pre-Trained Language Models (KBC-LM 2024) and the 3rd challenge on Language Models for Knowledge Base Construction (LM-KBC 2024)
+voltitle: Joint proceedings of the KBC-LM workshop and the LM-KBC challenge  2024
+loctime: Baltimore, USA, November 12, 2024
+title: CEUR-WS.org/Vol-3853 - KBC-LM workshop and the LM-KBC challenge 2024
+volacronym: KBC-LM-LM-KBC 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3860-3
+pubyear: 2024
+volnr: Vol-3860
+fulltitle: Proceedings of the PhD Symposium at the 19th International Conference on integrated Formal Methods in Manchester 2024
+voltitle: PhD Symposium at iFM 2024
+loctime: Manchester, United Kingdom, November 12, 2024
+volacronym: iFM-Phd 2024
+title: CEUR-WS.org/Vol-3860 - PhD Symposium at iFM 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3851-3
+pubyear: 2024
+volnr: Vol-3851
+fulltitle: Proceedings of the 3rd International Workshop on Social Communication and Information Activity in Digital Humanities (SCIA 2024)
+voltitle: Social Communication and Information Activity in Digital Humanities 2024
+loctime: Lviv, Ukraine, October 31, 2024
+title: CEUR-WS.org/Vol-3851 - Social Communication and Information Activity in Digital Humanities 2024
+volacronym: SCIA 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3859-5
+pubyear: 2024
+volnr: Vol-3859
+fulltitle: Proceedings of the 1st Workshop on Multimodal Search and Recommendations (MMSR 2024)
+voltitle: Multimodal Search and Recommendations 2024
+loctime: Boise, United States, October 25, 2024
+title: CEUR-WS.org/Vol-3859 - CIKM MMSR '24 Proceedings
+volacronym: MMSR 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3854-4
+pubyear: 2024
+volnr: Vol-3854
+fulltitle: Joint Proceedings of the 1st Workshop on Evaluation
+        Methodologies,Testbeds and Community for Information Access Research
+        (EMTCIR 2024) and the 1st Workshop on User Modelling in Conversational
+        Information Retrieval (UM-CIR 2024)
+voltitle: Joint Proceedings of the SIGIR-AP 2024 Workshops EMTCIR 2024 and UM-CIR 2024
+loctime: Tokyo, Japan, December 12, 2024
+title:  CEUR-WS.org/Vol-3854 - Joint Proceedings of the SIGIR-AP 2024 Workshops EMTCIR 2024 and UM-CIR 2024
+volacronym: EMTCIR_UM-CIR 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3856-1
+pubyear: 2024
+volnr: Vol-3856
+fulltitle: Proceedings of the IJCAI 2024 Workshop on Artificial Intelligence Safety (AISafety 2024)
+voltitle: IJCAI 2024 Workshop on Artificial Intelligence Safety
+loctime: Jeju, Korea, August 4, 2024
+volacronym: AISafety 2024
+title: CEUR-WS.org/Vol-3856 - The IJCAI 2024 Workshop on Artificial Intelligence Safety (AISafety2024)
+----------------------------------------
+urn: urn:nbn:de:0074-3857-4
+pubyear: 2024
+volnr: Vol-3857
+fulltitle: Proceedings of the 10th International Conference on Socio-Technical Perspectives in Information Systems (STPIS 2024)
+voltitle: Socio-Technical Perspectives in Information Systems 2024
+loctime: Hybrid conference with a workshop at University of Jöngköping, Sweden, August 16-17, 2024
+title: CEUR-WS.org/Vol-3857 - Socio-Technical Perspectives in Information Systems (STPIS 2024)
+volacronym: STPIS 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3858-8
+pubyear: 2023
+volnr: Vol-3858
+fulltitle: Proceedings of the International Tourism, Hospitality & Gastronomy Congress
+voltitle: International Tourism, Hospitality & Gastronomy Congress
+loctime: Lima, Peru, October 25-27, 2023
+title: CEUR-WS.org/Vol-3858 - International Tourism, Hospitality & Gastronomy Congress 2023
+volacronym: ITHGC 2023
+----------------------------------------
+urn: urn:nbn:de:0074-3862-0
+pubyear: 2024
+volnr: Vol-3862
+fulltitle: Proceedings of the 9th Linguistic and Cognitive Approaches To Dialog Agents Workshop - LaCATODA 2024
+voltitle: The 9th Linguistic and Cognitive Approaches To Dialog Agents Workshop - LaCATODA 2024
+loctime: Kyoto, Japan, November 19, 2024
+title: CEUR-WS.org/Vol-3862 - The 9th Linguistic and Cognitive Approaches To Dialog Agents Workshop - LaCATODA 2024
+volacronym: LaCATODA 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3852-7
+pubyear: 2024
+volnr: Vol-3852
+fulltitle: Joint Proceedings of the 33rd International Workshop on Software Measurement and the 18th International Conference on Software Process and Product Measurement (IWSM-MENSURA 2024)
+voltitle: Joint Proceedings IWSM and Mensura 2024
+loctime: Montréal, Canada, September 30 - October 4, 2024
+title: CEUR-WS.org/Vol-3852 - Joint Proceedings IWSM and Mensura 2024
+volacronym: IWSM-MENSURA 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3861-7
+pubyear: 2024
+volnr: Vol-3861
+fulltitle: Proceedings of the Computational Intelligence Application Workshop (CIAW 2024)
+voltitle: Computational Intelligence Application Workshop 2024
+loctime: Lviv, Ukraine, October 10-12, 2024
+title: CEUR-WS.org/Vol-3861 - Computational Intelligence Application Workshop (CIAW-2024) 
+volacronym: CIAW 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3850-0
+pubyear: 2024
+volnr: Vol-3850
+fulltitle: Proceedings of the 1st International Workshop on Processes, Laws and Compliance
+voltitle: Processes, Laws and Compliance 2024
+loctime:  Lyngby, Denmark, October 14, 2024
+
+title: CEUR-WS.org/Vol-3850 - 1st International Workshop on Processes, Laws and Compliance (PLC) 2024
+volacronym: PLC 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3849-2
+pubyear: 2024
+volnr: Vol-3849
+fulltitle: Companion Proceedings of the 43rd International Conference on Conceptual Modeling: ER Forum, Special Topics, Posters and Demos
+voltitle: ER Forum, Special Topics, Posters and Demos 2024
+loctime: Pittsburgh, Pennsylvania, USA, October 28-31, 2024
+title: CEUR-WS.org/Vol-3849 - ER Forum, Special Topics, Posters and Demos 2024
+volacronym: ER-Companion 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3855-7
+pubyear: 2024
+volnr: Vol-3855
+fulltitle: Companion Proceedings of the 17th IFIP WG 8.1 Working Conference on the Practice of Enterprise Modeling Forum, M4S, FACETE, AEM, Tools and Demos
+voltitle: PoEM 2024 Forum, M4S, FACETE, AEM, Tools and Demos
+loctime: Stockholm, Sweden, December 3-5, 2024
+title: CEUR-WS.org/Vol-3855 - PoEM Companion 2024
+volacronym: PoEM-Companion 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3844-0
+pubyear: 2024
+volnr: Vol-3844
+fulltitle: Proceedings of the 6th International Workshop on Augmented Reality in Education (AREdu 2023)
+voltitle: 6th International Workshop on Augmented Reality in Education 2023
+loctime: Kryvyi Rih, Ukraine, May 17, 2023
+title: CEUR-WS.org/Vol-3844 - 6th International Workshop on Augmented Reality in Education 2023
+volacronym: AREdu 2023
+----------------------------------------
+urn: urn:nbn:de:0074-3847-1
+pubyear: 2024
+volnr: Vol-3847
+fulltitle: Proceedings of the AIIDE Workshop on Intelligent Narrative Technologies
+voltitle: AIIDE Workshop on Intelligent Narrative Technologies 2024
+loctime: Lexington, Kentucky, USA, November 18, 2024
+title: CEUR-WS.org/Vol-3847 - Proceedings of the AIIDE Workshop on Intelligent Narrative Technologies 2024
+volacronym: INT 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3848-5
+pubyear: 2024
+volnr: Vol-3848
+fulltitle: Proceedings of IJCAI 2024 Workshop&Challenge on Micro-gesture Analysis for Hidden Emotion Understanding (MiGA 2024)
+voltitle: Micro-gesture Analysis for Hidden Emotion Understanding 2024
+loctime: Jeju, Korea, August 04, 2024
+title: CEUR-WS.org/Vol-3848 - IJCAI 2024 Joint Workshop on Micro-gesture Analysis for Hidden Emotion Understanding (MiGA 2024)
+volacronym: MiGA 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3845-4
+pubyear: 2024
+volnr: Vol-3845
+fulltitle: Proceedings of the Eleventh Workshop on Software Quality Analysis, Monitoring, Improvement, and Applications
+voltitle: Software Quality Analysis, Monitoring, Improvement, and Applications 2024
+loctime: Novi Sad, Serbia, September 9-11, 2024
+title: CEUR-WS.org/Vol-3845 - Eleventh Workshop on Software Quality Analysis, Monitoring, Improvement, and Applications (SQAMIA 2024)
+volacronym: SQAMIA 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3843-7
+pubyear: 2024
+volnr: Vol-3843
+fulltitle: Proceedings of the ACM SIGIR Workshop on eCommerce 2024
+voltitle: ACM SIGIR Workshop on eCommerce 2024
+loctime: Washington D.C., USA, July 18, 2024
+volacronym: ECOM 2024
+title: CEUR-WS.org/Vol-3843 - ACM SIGIR Workshop on eCommerce 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3846-7
+pubyear: 2024
+volnr: Vol-3846
+fulltitle: Poster Proceedings of the 40th Annual Conference of the Spanish Association for Natural Language Processing 2024 (SEPLN-P 2024)
+voltitle: Posters of SEPLN 2024
+loctime: 
+Valladolid, Spain, September 24-27, 2024
+volacronym: SEPLN-P 2024
+title: CEUR-WS.org/Vol-3846 - 40th Annual Conference of the Spanish Association for Natural Language Processing 2024: Posters (SEPLN-P 2024)
+----------------------------------------
+urn: urn:nbn:de:0074-3836-4
+pubyear: 2024
+volnr: Vol-3836
+fulltitle: Proceedings of the First Workshop on Adaptive Lifelong Learning (ALL 2024)
+voltitle: Adaptive Lifelong Learning 2024
+loctime: Recife, Brazil, July 08, 2024
+volacronym: ALL 2024
+title: CEUR-WS.org/Vol-3836 - Adaptive Lifelong Learning 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3840-6
+pubyear: 2024
+volnr: Vol-3840
+fulltitle: Joint Proceedings of the Human-Centric eXplainable AI in Education and the Leveraging Large Language Models for Next Generation Educational Technologies Workshops (HEXED-L3MNGET 2024)
+voltitle: HEXED 2024 and L3MNGET 2024 Workshops Joint Proceedings
+loctime: Atlanta, Georgia, USA, July 14, 2024
+title: CEUR-WS.org/Vol-3840 - HEXED 2024 and L3MNGET 2024 Workshops Joint Proceedings
+volacronym: HEXED-L3MNGET 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3833-3
+pubyear: 2024
+volnr: Vol-3833
+fulltitle: Proceedings of the 4th International Workshop on Data meets Ontologies in Explainable AI
+voltitle: Data meets Ontologies in Explainable AI 2024
+loctime: Santiago de Compostela, Spain, October 19, 2024
+title: CEUR-WS.org/Vol-3833 - 4th International Workshop on Data meets Ontologies in Explainable AI (DAO-XAI IV)
+volacronym: DAO-XAI 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3832-0
+pubyear: 2024
+volnr: Vol-3832
+fulltitle: Proceedings of the 3rd Workshop on Augmented Intelligence for Technology-Assisted Reviews Systems (ALTARS 2024)
+voltitle: Augmented Intelligence for Technology-Assisted Reviews Systems 2024
+loctime: Glasgow, Scotland, March 28, 2024
+title: CEUR-WS.org/Vol-3832 - 3rd Workshop on Augmented Intelligence for Technology-Assisted Reviews Systems (ALTARS 2024)
+volacronym: ALTARS 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3841-0
+pubyear: 2024
+volnr: Vol-3841
+fulltitle: Proceedings of the KDD Workshop on Human-Interpretable AI 2024
+voltitle: KDD Workshop on Human-Interpretable AI 2024
+loctime: Centre de Convencions Internacional de Barcelona, Spain, August 26, 2024
+title: CEUR-WS.org/Vol-3841 - KDD Workshop on Human-Interpretable AI (HI-AI 2024) (
+volacronym: HI-AI 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3837-8
+pubyear: 2024
+volnr: Vol-3837
+fulltitle: Proceedings of the Workshop on Data Mining for Online Advertising (AdKDD 2024)
+voltitle: Data Mining for Online Advertising 2024
+loctime: Barcelona, Spain, August 25, 2024
+title: CEUR-WS.org/Vol-3837 - Data Mining for Online Advertising 2024
+volacronym: AdKDD 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3838-1
+pubyear: 2024
+volnr: Vol-3838
+fulltitle: Proceedings of the 3rd International Conference on Visual Pattern Extraction and Recognition for Cultural Heritage Understanding
+voltitle: Visual Pattern Extraction and Recognition for Cultural Heritage Understanding 2024
+loctime: Bari, Italy, September 1, 2024
+title: CEUR-WS.org/Vol-3838 - 3rd International Conference on Visual Pattern Extraction and Recognition for Cultural Heritage Understanding 2024
+volacronym: VIPERC 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3842-3
+pubyear: 2024
+volnr: Vol-3842
+fulltitle: Proceedings of the 1st International Workshop on Bioinformatics and Applied Information Technologies (BAIT 2024)
+voltitle: The 1st International Workshop on Bioinformatics and Applied Information Technologies 2024
+loctime: Zboriv, Ukraine, October 02-04, 2024
+title: CEUR-WS.org/Vol-3842 - The 1st International Workshop on Bioinformatics and Applied Information Technologies (BAIT-2024)
+volacronym: BAIT-2024
+----------------------------------------
+urn: urn:nbn:de:0074-3835-0
+pubyear: 2024
+volnr: Vol-3835
+fulltitle: Proceedings of the 22nd International Workshop on Nonmonotonic Reasoning (NMR 2024)
+voltitle: Nonmonotonic Reasoning 2024
+loctime: Hanoi, Vietnam, November 2-4, 2024
+volacronym: NMR 2024
+title: CEUR-WS.org/Vol-3835 - 22nd International Workshop on Nonmonotonic Reasoning 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3834-7
+pubyear: 2024
+volnr: Vol-3834
+fulltitle: Proceedings of the Computational Humanities
+  Research Conference 2024
+voltitle: Computational Humanities Research 2024
+loctime: Aarhus, Denmark, December 4-6, 2024
+title: CEUR-WS.org/Vol-3834 - Computational Humanities Research 2024
+volacronym: CHR 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3831-6
+pubyear: 2024
+volnr: Vol-3831
+fulltitle: Proceedings of the First Workshop on Explainable Artificial Intelligence for the Medical Domain (EXPLIMED 2024)
+voltitle: Explainable Artificial Intelligence for the Medical Domain 2024
+loctime: Santiago de Compostela, Spain, October 20, 2024
+title: CEUR-WS.org/Vol-3831 - First Workshop on Explainable Artificial Intelligence for the Medical Domain (EXPLIMED 2024)
+volacronym: EXPLIMED 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3829-5
+pubyear: 2024
+volnr: Vol-3829
+fulltitle: Proceedings of the Classic, Quantum, and Post-Quantum Cryptography
+voltitle: Classic, Quantum, and Post-Quantum Cryptography 2024
+loctime: Kyiv, Ukraine, August 6, 2024 (online)
+title: CEUR-WS.org/Vol-3829 - Classic, Quantum, and Post-Quantum Cryptography (CQPC-2024)
+volacronym: CQPC 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3839-8
+pubyear: 2024
+volnr: Vol-3839
+fulltitle: Proceedings of the 5th Italian Workshop on Explainable Artificial Intelligence,
+voltitle: Italian Workshop on Explainable Artificial Intelligence 2024
+loctime: Bolzano, Italy,November 26-27, 2024
+title: CEUR-WS.org/Vol-3839 -Italian Workshop on Explainable Artificial Intelligence 2024
+volacronym: XAI.it 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3830-3
+pubyear: 2024
+volnr: Vol-3830
+fulltitle: Joint Proceedings of the 1st Software Lifecycle Management for Knowledge Graphs Workshop and the 3rd International Workshop on Semantic Industrial Information Modelling (SOFLIM2KG-SEMIIM 2024)
+voltitle: Joint Proceedings SOFLIM2KG and SEMIIM 2024
+loctime: Baltimore, USA, November 12, 2024
+title: CEUR-WS.org/Vol-3830 - Joint Proceedings SOFLIM2KG and SEMIIM 2024
+volacronym: SOFLIM2KG-SEMIIM 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3827-4
+pubyear: 2024
+volnr: Vol-3827
+fulltitle: Proceedings of the 3rd International Workshop on Spatio-Temporal Reasoning and Learning (STRL 2024)
+voltitle: Spatio-Temporal Reasoning and Learning 2024
+loctime: Jeju island, South Korea, August 5, 2024
+title: CEUR-WS.org/Vol-3827 - Third International Workshop on Spatio-Temporal Reasoning and Learning 2024
+volacronym: STRL 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3823-0
+pubyear: 2024
+volnr: Vol-3823
+fulltitle: Proceedings of the 6th International Workshop on Health Recommender Systems (HealthRecSys 2024)
+voltitle: Health Recommender Systems 2024
+loctime: Bari, Italy, October 18, 2024
+title: CEUR-WS.org/Vol-3823 - The 6th International Workshop on Health Recommender Systems (HealthRecSys 2024)
+volacronym: HealthRecSys 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3824-3
+pubyear: 2024
+volnr: Vol-3824
+fulltitle: Proceedings of the 12th Linked Data in Architecture and Construction Workshop
+voltitle: Linked Data in Architecture and Construction 2024
+loctime: Bochum, Germany, June 13-14, 2024
+title: CEUR-WS.org/Vol-3824 - Linked Data in Architecture and Construction 2024
+volacronym: LDAC 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3825-7
+pubyear: 2024
+volnr: Vol-3825
+fulltitle: Proceedings of the Workshops at the Third International Conference on Hybrid Human-Artificial Intelligence
+voltitle: Proceedings of HHAI 2024 Workshops
+loctime: Malmö, Sweden, June 10-11, 2024
+volacronym: HHAI-WS 2024
+title: CEUR-WS.org/Vol-3825 - HHAI-WS 2024: Proceedings of HHAI 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3826-1
+pubyear: 2024
+volnr: Vol-3826
+fulltitle: Proceedings of the Cybersecurity Providing in Information and Telecommunication Systems II
+voltitle: Cybersecurity Providing in Information and Telecommunication Systems II 2024
+loctime: Kyiv, Ukraine, October 26, 2024 (online)
+title: CEUR-WS.org/Vol-3826 - Cybersecurity Providing in Information and Telecommunication Systems II (CPITS-II-2024)
+volacronym: CPITS-II 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3828-8
+pubyear: 2024
+volnr: Vol-3828
+fulltitle: Proceedings of the ISWC 2024 Posters, Demos and Industry Tracks: From Novel Ideas to Industrial Practice
+voltitle: Posters, Demos, and Industry Tracks at ISWC 2024
+loctime: Maryland, USA, November 11-15, 2024
+title: CEUR-WS.org/Vol-3828 - Posters, Demos, and Industry Tracks at ISWC 2024
+volacronym: ISWC-Posters-Demos-Industry 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3822-6
+pubyear: 2024
+volnr: Vol-3822
+fulltitle: Proceedings of the SICSA Workshop on Reasoning, Evaluation and Application of Large Language Models (SICSA-REALLM 2024)
+voltitle: SICSA REALLM Workshop 2024
+loctime: Aberdeen, United Kingdom, October 17th, 2024
+title: CEUR-WS.org/Vol-3822 - SICSA REALLM Workshop 2024
+volacronym: SICSA-REALLM 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3814-0
+pubyear: 2024
+volnr: Vol-3814
+fulltitle: Proceedings of the Workshop on Humanities-Centred Artificial Intelligence
+voltitle: Humanities-Centred Artificial Intelligence 2024
+loctime: Würzburg, Germany, September 23, 2024
+title: CEUR-WS.org/Vol-3814 - Humanities-Centred Artificial Intelligence 2024
+volacronym: CHAI 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3817-1
+pubyear: 2024
+volnr: Vol-3817
+fulltitle: Proceedings of the Sixth Knowledge-aware and Conversational Recommender Systems Workshop
+voltitle: Knowledge-aware and Conversational Recommender Systems 2024
+loctime: Bari, Italy, October 18th, 2024
+title: CEUR-WS.org/Vol-3817 - Knowledge-aware and Conversational Recommender Systems 2024
+volacronym: KaRS 2024
+----------------------------------------
+urn: urn:nbn:de:0074-3812-3
+pubyear: 2024
+volnr: Vol-3812
+fulltitle: Proceedings of the 26th International Workshop on Configuration (ConfWS 2024)
+voltitle: Configuration Workshop 2024
+loctime: Girona, Spain, September 2-3, 2024
+volacronym: ConfWS 2024
+title: CEUR-WS.org/Vol-3812 - Configuration Workshop 2024
+----------------------------------------
