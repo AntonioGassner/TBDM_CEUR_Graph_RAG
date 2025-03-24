@@ -269,10 +269,6 @@ query_limit = 100
 ```
 
 
-
-```shell
-```
-
 [//]: # ()
 [//]: # (### Bugfixes to https://github.com/AronOehrli/TBDM-CEUR-WS)
 

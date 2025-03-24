@@ -1,5 +1,7 @@
 # USEFUL CYPHER COMMANDS
 
+This file contains some Cypher code which is generally useful for debugging or manually solving some issues.
+
 List indices
 ```sql
 SHOW INDEXES YIELD name, labelsOrTypes, properties
