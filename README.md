@@ -58,6 +58,12 @@ The nodes in the graph are then enriched with a semantic representation of their
 ## Installation
 
 For the crawler component refer to https://github.com/AronOehrli/TBDM-CEUR-WS.
+All credits for the Scraper module go to: 
+
+- **Simon Huber** [@shuber-unicam](https://github.com/shuber-unicam)
+- **Aron Oehrli** [@AronOehrli](https://github.com/AronOehrli)
+- **Piero Salmena** [@Pierosalmena](https://github.com/Pioerosalmena)
+
 Following are the instructions to install and setup everything which will be needed to run this project.
 
 
